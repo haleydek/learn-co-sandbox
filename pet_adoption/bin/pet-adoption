@@ -1,6 +1,0 @@
-#!/usr/bin/env ruby
-
-require './lib/pet_adoption.rb'
-
-PetAdoption::CLI.new.call
-
